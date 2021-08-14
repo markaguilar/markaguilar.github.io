@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/markaguilar/markaguilar.github.io.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/markaguilar/markaguilar.github.io.git/static/js/main.07fa31c0.chunk.js",
+    "main.js.map": "/markaguilar/markaguilar.github.io.git/static/js/main.07fa31c0.chunk.js.map",
+    "runtime-main.js": "/markaguilar/markaguilar.github.io.git/static/js/runtime-main.9b66d4f5.js",
+    "runtime-main.js.map": "/markaguilar/markaguilar.github.io.git/static/js/runtime-main.9b66d4f5.js.map",
+    "static/js/2.3a829928.chunk.js": "/markaguilar/markaguilar.github.io.git/static/js/2.3a829928.chunk.js",
+    "static/js/2.3a829928.chunk.js.map": "/markaguilar/markaguilar.github.io.git/static/js/2.3a829928.chunk.js.map",
+    "static/js/3.d60a9bef.chunk.js": "/markaguilar/markaguilar.github.io.git/static/js/3.d60a9bef.chunk.js",
+    "static/js/3.d60a9bef.chunk.js.map": "/markaguilar/markaguilar.github.io.git/static/js/3.d60a9bef.chunk.js.map",
+    "index.html": "/markaguilar/markaguilar.github.io.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/markaguilar/markaguilar.github.io.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.3a829928.chunk.js.LICENSE.txt": "/markaguilar/markaguilar.github.io.git/static/js/2.3a829928.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b66d4f5.js",
+    "static/js/2.3a829928.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.07fa31c0.chunk.js"
+  ]
+}
